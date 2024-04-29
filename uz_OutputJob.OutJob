@@ -826,8 +826,8 @@ OutputPathOutputer12=[Output Custom]
 OutputPathOutputerPrefix12=
 OutputPathOutputerValue12=DOC
 OutputFileName12=
-OutputFileNameMulti12=
-UseOutputNameForMulti12=1
+OutputFileNameMulti12==ProjectName+'_'+OutputName+'_'+ProjectRevision
+UseOutputNameForMulti12=0
 OutputFileNameSpecial12=
 OpenOutput12=1
 
